@@ -6,7 +6,7 @@ main{
     min-height: 100vh;
     padding: 15px;
 }
-main h1{
+.mb{
     margin-bottom: 3rem;
 }
 
